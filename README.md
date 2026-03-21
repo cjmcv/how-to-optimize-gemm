@@ -7,10 +7,11 @@ AI Infra 相关开源代码的阅读笔记，笔记主要以代码注释的方式呈现 (用 `<NT>` 标记)，
 | 项目名 | 笔记范围 | 笔记量 | 重要系数 | 最后更新日期 |
 | :---: | :--- | :--- | :---: | :---: |
 | cutlass | 整体精读 | 171 | :star::star::star: | 20251102 |
+| tilelang | 整体精读 | 30 | :star::star::star: | 20260321 |
 | sglang | 整体精读 | 285 | :star::star: | 20251020 | 
-| flash-attention | /hopper/ | 96 | :star::star: | 20250620 |
-| SageAttention | 部分阅读 | 43 | :star::star: | 20250627 |
-| marlin | 整体阅读 | 89 | :star::star: | 20241010 |
+| flash-attention | /hopper/ | 96 | :star: | 20250620 |
+| SageAttention | 部分阅读 | 43 | :star: | 20250627 |
+| marlin | 整体阅读 | 89 | :star: | 20241010 |
 | lighteval | metrics评价指标部分 | 4 |:star: | 20250210 |
 
 ## 文档/图片笔记-docs

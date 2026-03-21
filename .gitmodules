@@ -16,3 +16,6 @@
 [submodule "marlin"]
 	path = marlin
 	url = https://github.com/cjmcv/marlin.git
+[submodule "tilelang"]
+	path = tilelang
+	url = https://github.com/cjmcv/tilelang.git

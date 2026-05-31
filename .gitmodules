@@ -19,3 +19,6 @@
 [submodule "tilelang"]
 	path = tilelang
 	url = https://github.com/cjmcv/tilelang.git
+[submodule "Megakernels"]
+	path = Megakernels
+	url = https://github.com/cjmcv/Megakernels.git
